@@ -36,7 +36,6 @@ As meme culture continues to evolve, our meme generator will adapt to meet user 
 ## Contributors
 
 - R.C.P.I.T., Shirpur
-- 
 ---
 
 We hope this project inspires creativity and fosters a sense of community and shared humor. Thank you for using MemeCrafter!
